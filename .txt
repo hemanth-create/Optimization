@@ -10,7 +10,7 @@ Given the following Progress Note, answer the questions below.
 Integral Care
 
 Date Created
-:   11/19/2025 7:15\u202fPM
+:   11/19/2025 7:15\u202fP
 
 Form Name
 :   GIRPP Progress Note (CWSPN22005)
